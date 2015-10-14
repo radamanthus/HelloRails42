@@ -44,3 +44,4 @@ group :development, :test do
 end
 
 gem 'delayed_job'
+gem 'delayed_job_active_record'
