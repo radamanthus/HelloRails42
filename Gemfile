@@ -43,3 +43,4 @@ group :development, :test do
   gem 'spring'
 end
 
+gem 'delayed_job'
