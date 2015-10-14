@@ -26,7 +26,6 @@ defaults:
   #
   migrate: false
 
-  keep_releases: 2
   # Default migration command to run when migrations are enabled.
   #
   #migration_command: rake db:migrate --trace
@@ -161,6 +160,8 @@ defaults:
   # Custom keys will be available using config.key or config[:key]
   #
   #your_own_custom_key: custom info
+
+  keep_releases: 2
 
 
 ####################################################################
