@@ -161,7 +161,7 @@ defaults:
   #
   #your_own_custom_key: custom info
 
-  keep_releases: 2
+  keep_releases: 1
 
 
 ####################################################################
