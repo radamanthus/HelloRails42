@@ -45,3 +45,9 @@ end
 
 gem 'delayed_job'
 gem 'delayed_job_active_record'
+
+gem 'resque'
+
+gem "therubyracer"
+gem "less-rails" #Sprockets (what Rails 3.1 uses for its asset pipeline) supports LESS
+gem "twitter-bootstrap-rails"
